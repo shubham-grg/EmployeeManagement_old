@@ -1,0 +1,21 @@
+D:\Shubham's\TCS\new UPS\EmployeeDataAccessLayer\bin\Debug\EmployeeDataAccessLayer.dll
+D:\Shubham's\TCS\new UPS\EmployeeDataAccessLayer\bin\Debug\EmployeeDataAccessLayer.pdb
+D:\Shubham's\TCS\new UPS\EmployeeDataAccessLayer\obj\Debug\EmployeeDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Shubham's\TCS\new UPS\EmployeeDataAccessLayer\obj\Debug\EmployeeDataAccessLayer.dll
+D:\Shubham's\TCS\new UPS\EmployeeDataAccessLayer\obj\Debug\EmployeeDataAccessLayer.pdb
+D:\Shubham's\TCS\new UPS\EmployeeDataAccessLayer\bin\Debug\Newtonsoft.Json.dll
+D:\Shubham's\TCS\new UPS\EmployeeDataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Shubham's\TCS\new UPS\EmployeeDataAccessLayer\obj\Debug\EmployeeDataAccessLayer.csproj.AssemblyReference.cache
+D:\Shubham's\TCS\new UPS\EmployeeDataAccessLayer\obj\Debug\EmployeeDataAccessLayer.csproj.CopyComplete
+D:\Shubham's\TCS\new UPS\EmployeeDataAccessLayer\bin\Debug\EmployeeBusinessObjects.dll
+D:\Shubham's\TCS\new UPS\EmployeeDataAccessLayer\bin\Debug\EmployeeBusinessObjects.pdb
+D:\Shubham's\TCS\new UPS - Copy2\EmployeeDataAccessLayer\bin\Debug\EmployeeDataAccessLayer.dll
+D:\Shubham's\TCS\new UPS - Copy2\EmployeeDataAccessLayer\bin\Debug\EmployeeDataAccessLayer.pdb
+D:\Shubham's\TCS\new UPS - Copy2\EmployeeDataAccessLayer\bin\Debug\EmployeeBusinessObjects.dll
+D:\Shubham's\TCS\new UPS - Copy2\EmployeeDataAccessLayer\bin\Debug\EmployeeBusinessObjects.pdb
+D:\Shubham's\TCS\new UPS - Copy2\EmployeeDataAccessLayer\bin\Debug\Newtonsoft.Json.xml
+D:\Shubham's\TCS\new UPS - Copy2\EmployeeDataAccessLayer\obj\Debug\EmployeeDataAccessLayer.csproj.AssemblyReference.cache
+D:\Shubham's\TCS\new UPS - Copy2\EmployeeDataAccessLayer\obj\Debug\EmployeeDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Shubham's\TCS\new UPS - Copy2\EmployeeDataAccessLayer\obj\Debug\EmployeeDataAccessLayer.csproj.CopyComplete
+D:\Shubham's\TCS\new UPS - Copy2\EmployeeDataAccessLayer\obj\Debug\EmployeeDataAccessLayer.dll
+D:\Shubham's\TCS\new UPS - Copy2\EmployeeDataAccessLayer\obj\Debug\EmployeeDataAccessLayer.pdb

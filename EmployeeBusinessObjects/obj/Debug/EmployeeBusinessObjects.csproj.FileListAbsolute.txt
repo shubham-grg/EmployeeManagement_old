@@ -1,0 +1,12 @@
+D:\Shubham's\TCS\new UPS\EmployeeBusinessObjects\bin\Debug\EmployeeBusinessObjects.dll
+D:\Shubham's\TCS\new UPS\EmployeeBusinessObjects\bin\Debug\EmployeeBusinessObjects.pdb
+D:\Shubham's\TCS\new UPS\EmployeeBusinessObjects\obj\Debug\EmployeeBusinessObjects.csproj.CoreCompileInputs.cache
+D:\Shubham's\TCS\new UPS\EmployeeBusinessObjects\obj\Debug\EmployeeBusinessObjects.dll
+D:\Shubham's\TCS\new UPS\EmployeeBusinessObjects\obj\Debug\EmployeeBusinessObjects.pdb
+D:\Shubham's\TCS\new UPS\EmployeeBusinessObjects\obj\Debug\EmployeeBusinessObjects.csproj.AssemblyReference.cache
+D:\Shubham's\TCS\new UPS - Copy2\EmployeeBusinessObjects\bin\Debug\EmployeeBusinessObjects.dll
+D:\Shubham's\TCS\new UPS - Copy2\EmployeeBusinessObjects\bin\Debug\EmployeeBusinessObjects.pdb
+D:\Shubham's\TCS\new UPS - Copy2\EmployeeBusinessObjects\obj\Debug\EmployeeBusinessObjects.csproj.AssemblyReference.cache
+D:\Shubham's\TCS\new UPS - Copy2\EmployeeBusinessObjects\obj\Debug\EmployeeBusinessObjects.csproj.CoreCompileInputs.cache
+D:\Shubham's\TCS\new UPS - Copy2\EmployeeBusinessObjects\obj\Debug\EmployeeBusinessObjects.dll
+D:\Shubham's\TCS\new UPS - Copy2\EmployeeBusinessObjects\obj\Debug\EmployeeBusinessObjects.pdb
