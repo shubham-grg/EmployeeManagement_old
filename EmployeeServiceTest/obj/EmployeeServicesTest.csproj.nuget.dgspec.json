@@ -1,0 +1,168 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeServiceTest\\EmployeeServicesTest.csproj": {}
+  },
+  "projects": {
+    "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeBusinessLayer\\EmployeeBusinessLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeBusinessLayer\\EmployeeBusinessLayer.csproj",
+        "projectName": "EmployeeBusinessLayer",
+        "projectPath": "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeBusinessLayer\\EmployeeBusinessLayer.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeBusinessObjects\\EmployeeBusinessObjects.csproj": {
+                "projectPath": "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeBusinessObjects\\EmployeeBusinessObjects.csproj"
+              },
+              "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeDataAccessLayer\\EmployeeDataAccessLayer.csproj": {
+                "projectPath": "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeDataAccessLayer\\EmployeeDataAccessLayer.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeBusinessObjects\\EmployeeBusinessObjects.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeBusinessObjects\\EmployeeBusinessObjects.csproj",
+        "projectName": "EmployeeBusinessObjects",
+        "projectPath": "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeBusinessObjects\\EmployeeBusinessObjects.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeDataAccessLayer\\EmployeeDataAccessLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeDataAccessLayer\\EmployeeDataAccessLayer.csproj",
+        "projectName": "EmployeeDataAccessLayer",
+        "projectPath": "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeDataAccessLayer\\EmployeeDataAccessLayer.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeBusinessObjects\\EmployeeBusinessObjects.csproj": {
+                "projectPath": "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeBusinessObjects\\EmployeeBusinessObjects.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeManagement\\EmployeeManagement.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeManagement\\EmployeeManagement.csproj",
+        "projectName": "EmployeeManagement",
+        "projectPath": "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeManagement\\EmployeeManagement.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeBusinessLayer\\EmployeeBusinessLayer.csproj": {
+                "projectPath": "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeBusinessLayer\\EmployeeBusinessLayer.csproj"
+              },
+              "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeBusinessObjects\\EmployeeBusinessObjects.csproj": {
+                "projectPath": "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeBusinessObjects\\EmployeeBusinessObjects.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeServiceTest\\EmployeeServicesTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeServiceTest\\EmployeeServicesTest.csproj",
+        "projectName": "EmployeeServicesTest",
+        "projectPath": "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeServiceTest\\EmployeeServicesTest.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeServiceTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeBusinessLayer\\EmployeeBusinessLayer.csproj": {
+                "projectPath": "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeBusinessLayer\\EmployeeBusinessLayer.csproj"
+              },
+              "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeBusinessObjects\\EmployeeBusinessObjects.csproj": {
+                "projectPath": "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeBusinessObjects\\EmployeeBusinessObjects.csproj"
+              },
+              "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeManagement\\EmployeeManagement.csproj": {
+                "projectPath": "D:\\Shubham's\\TCS\\new UPS - Copy2\\EmployeeManagement\\EmployeeManagement.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Autofac.Extras.Moq": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "NUnit.ConsoleRunner": {
+              "target": "Package",
+              "version": "[3.16.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "xunit.extensibility.core": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
