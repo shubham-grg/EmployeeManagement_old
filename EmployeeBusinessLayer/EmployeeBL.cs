@@ -9,8 +9,12 @@ using System.Threading.Tasks;
 namespace EmployeeBusinessLayer
 {
     public class EmployeeBL :IEmployeeBL
-    {
-        EmployeeDAO objdao = new EmployeeDAO();
+    {       
+        private readonly IEmployeeDAO objdao;       
+        public EmployeeBL(IEmployeeDAO employeeDAO)
+        {
+            objdao = employeeDAO;            
+        }
         public string SaveEmployee(Employee employee)
         {
             if (employee.name != "" || employee.email != "" || employee.gender != "" || employee.status != "")
