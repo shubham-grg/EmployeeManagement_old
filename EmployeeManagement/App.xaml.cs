@@ -1,4 +1,5 @@
 ﻿using EmployeeBusinessLayer;
+ using EmployeeDataAccessLayer;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -29,6 +30,7 @@ namespace EmployeeManagement
             services.AddSingleton<MainWindow>();
             //services.AddTransient<IEmployeeService, EmployeeServices>();
             services.AddTransient<IEmployeeBL, EmployeeBL>();
+            services.AddTransient<IEmployeeDAO, EmployeeDAO>();
         }
 
         private void OnStartup(object sender, StartupEventArgs e)
